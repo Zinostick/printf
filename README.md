@@ -108,5 +108,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **Ibraheem Adewale Ejibode** - [iejibode@gmail.com](https://github.com/Linsmed)
-* **Uche Ogbonna** - [ucheogbonnak@gmail.com](https://github.com/Kinguche2)
+* **Bankole Boluwatife** - [bankoleboluwatife28@gmai.com](https://github.com/Linsmed)
+* **Osauzo Efezino Gift** - [osauzogift@gmail.com](https://github.com/Linsmed)
