@@ -8,6 +8,10 @@
  * Return: result strings
  */
 char *convert(unsigned long int num, int base, int lowercase)
+/**
+ * number, base and lowercase
+ */
+
 {
 	static char *rep;
 	static char buffer[50];

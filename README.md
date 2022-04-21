@@ -108,5 +108,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ---
 
 ### Authors
-* **Bankole Boluwatife** - [bankoleboluwatife28@gmai.com](https://github.com/Linsmed)
+* **Bankole Boluwatife Joy** - [bankoleboluwatife28@gmail.com](https://github.com/Linsmed)
 * **Osauzo Efezino Gift** - [osauzogift@gmail.com](https://github.com/Linsmed)
